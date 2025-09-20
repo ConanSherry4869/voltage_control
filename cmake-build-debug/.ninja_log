@@ -1,0 +1,13 @@
+# ninja log v5
+4	987	7799703750542648	build.ninja	fe63a0e6360cdfdb
+8	1637	7799701148923563	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+54	603	7799513483363620	CMakeFiles/voltage_control.dir/cJSON.c.obj	3d9d84bcf853bd0d
+1638	2142	7799701153632555	voltage_control.exe	e8f46af040387324
+11	1644	7799703930297748	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1647	2190	7799703935562260	voltage_control.exe	e8f46af040387324
+24	1844	7799704596811058	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1845	2294	7799704601112230	voltage_control.exe	e8f46af040387324
+10	1486	7799705506692502	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1487	2015	7799705511195277	voltage_control.exe	e8f46af040387324
+9	1651	7799720764695510	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1652	2126	7799720769266506	voltage_control.exe	e8f46af040387324
