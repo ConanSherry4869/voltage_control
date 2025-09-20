@@ -1,0 +1,20 @@
+# 台区储能系统配置参数
+# 电压参数
+V_ref_upper,241.0
+V_ref_lower,198.0
+Deadband_upper,2.0
+Deadband_lower,2.0
+V_enter_lower,160.0
+
+# PI控制器参数
+Kp_upper,5.0
+Ki_upper,0.1
+Kp_lower,8.0
+Ki_lower,0.2
+
+# 功率限制参数
+P_step_max,10.0
+P_charge_max,125.0
+P_discharge_max,125.0
+SOC_max,0.95
+SOC_min,0.15

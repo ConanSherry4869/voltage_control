@@ -1,13 +1,15 @@
 # ninja log v5
-4	987	7799703750542648	build.ninja	fe63a0e6360cdfdb
-8	1637	7799701148923563	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+7	440	7800356378456259	CMakeFiles/voltage_control.dir/read_csv.c.obj	7430a5023fc9b6cc
+2	1053	7800357876101944	build.ninja	fe63a0e6360cdfdb
+12	2636	7800349788048401	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
 54	603	7799513483363620	CMakeFiles/voltage_control.dir/cJSON.c.obj	3d9d84bcf853bd0d
-1638	2142	7799701153632555	voltage_control.exe	e8f46af040387324
-11	1644	7799703930297748	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
-1647	2190	7799703935562260	voltage_control.exe	e8f46af040387324
-24	1844	7799704596811058	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
-1845	2294	7799704601112230	voltage_control.exe	e8f46af040387324
-10	1486	7799705506692502	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
-1487	2015	7799705511195277	voltage_control.exe	e8f46af040387324
-9	1651	7799720764695510	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
-1652	2126	7799720769266506	voltage_control.exe	e8f46af040387324
+440	878	7800356382630018	voltage_control.exe	4667a48ad411dfc7
+75	835	7800358045978596	CMakeFiles/voltage_control.dir/cJSON.c.obj	3d9d84bcf853bd0d
+5	1689	7800358054527285	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1692	33786	7800358059610854	voltage_control.exe	e8f46af040387324
+23	1850	7800361145853138	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1851	2362	7800361150720769	voltage_control.exe	e8f46af040387324
+10	2574	7800361519252391	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+2575	3048	7800361523767043	voltage_control.exe	e8f46af040387324
+11	1712	7800361799676052	CMakeFiles/voltage_control.dir/voltage_control.cpp.obj	9fd164dca3971724
+1713	2239	7800361804605068	voltage_control.exe	e8f46af040387324

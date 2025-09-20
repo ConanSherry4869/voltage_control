@@ -1,4 +1,4 @@
 "D:\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\lwf_projects\voltage_control -B D:\lwf_projects\voltage_control\cmake-build-debug
--- Configuring done (0.9s)
+-- Configuring done (0.7s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/lwf_projects/voltage_control/cmake-build-debug

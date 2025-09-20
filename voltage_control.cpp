@@ -297,6 +297,7 @@ void Main_VoltageControlLoop(void) {
     printf("控制模式状态=%d,有功功率指令=%f\n",ctrl_state.Ctrl_Mode,P_cmd);
     printf("******************************************************\n");
     fflush(stdout); // 强制刷新输出缓冲区
+
 }
 
 /**
@@ -397,6 +398,18 @@ int main(int argc, char *argv[])
     // 查看部分读取信息
     printf("V_ref_upper=%f\n", sys_cfg.V_ref_upper);
     printf("V_ref_lower=%f\n",sys_cfg.V_ref_lower);
+    printf("Deadband_upper=%f\n", sys_cfg.Deadband_upper);
+    printf("Deadband_lower=%f\n", sys_cfg.Deadband_lower);
+    printf("V_enter_lower=%f\n", sys_cfg.V_enter_lower);
+    printf("Kp_upper=%f\n", sys_cfg.Kp_upper);
+    printf("Ki_upper=%f\n", sys_cfg.Ki_upper);
+    printf("Kp_lower=%f\n", sys_cfg.Kp_lower);
+    printf("Ki_lower=%f\n", sys_cfg.Ki_lower);
+    printf("P_step_max=%f\n", sys_cfg.P_step_max);
+    printf("P_charge_max=%f\n", sys_cfg.P_charge_max);
+    printf("P_discharge_max=%f\n", sys_cfg.P_discharge_max);
+    printf("SOC_max=%f\n", sys_cfg.SOC_max);
+    printf("SOC_min=%f\n", sys_cfg.SOC_min);
 
     printf("=== 台区储能双向PI电压调节模拟 ===\n");
     // 初始化控制器状态
